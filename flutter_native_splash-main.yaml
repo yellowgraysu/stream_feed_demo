@@ -1,0 +1,7 @@
+flutter_native_splash:
+  web: false
+  background_image: assets/splash/splash_image.png
+  fullscreen: true
+  android_screen_orientation: portrait
+  android_12:
+    color: "#1F212D"
